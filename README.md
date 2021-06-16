@@ -52,9 +52,9 @@
   어느 출처의 어떤 문제에 동작을 수행했는지를 나타냅니다. 다음과 같이 사용할 수 있습니다.  
   to Baek's quiz #10024, to kry's quiz "Quick sort"
 
-- 작성자 (from)  
+- 작성자 (by)  
   해당 코드를 누가 작성하였는지를 나타냅니다. GitHub 사용자명으로, 다음과 같이 사용할 수 있습니다.  
-  from kry-p
+  by kry-p
 
 - 설명 (선택)  
   해당 commit에 대한 설명입니다. 문법에 어긋나지 않게 자유롭게 작성 가능하며, 한글도 허용됩니다.  
@@ -63,7 +63,7 @@
 다음은 Commit message의 예시입니다.
 
 ```
-Add code to Baek's quiz #10024 from kry-p
+Add code to Baek's quiz #10024 by kry-p
 
 문제 풀이 예시 설명문입니다. 자유롭게 작성 가능합니다.
 단, 한 줄이 너무 길어지지 않게 적절히 줄을 바꾸어 주세요.
