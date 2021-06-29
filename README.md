@@ -21,7 +21,7 @@
     + https://www.acmicpc.net/problem/2529
     + https://www.acmicpc.net/problem/1463
 
-+ jihokry
++ jihokt
 
     + https://www.acmicpc.net/problem/10870
     + https://www.acmicpc.net/problem/11729
