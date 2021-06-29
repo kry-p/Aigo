@@ -10,6 +10,24 @@
     <img src="https://img.shields.io/badge/solve-Python-%233776AB?style=flat-square&logo=python"/>&nbsp
 </p>
 
+## ⭐️ 금주의 문제 ⭐️
+
+3주차 (2021.6.27 ~ 2021.7.3)
+
++ azvfsxcd, kry-p
+
+    + https://www.acmicpc.net/problem/1912
+    + https://www.acmicpc.net/problem/9465
+    + https://www.acmicpc.net/problem/2529
+    + https://www.acmicpc.net/problem/1463
+
++ jihokry
+
+    + https://www.acmicpc.net/problem/10870
+    + https://www.acmicpc.net/problem/11729
+    + https://www.acmicpc.net/problem/7568
+    + https://www.acmicpc.net/problem/1018
+
 ## 디렉터리 구조
 
 프로젝트 디렉터리는 아래와 같은 구조로 작성됩니다.
