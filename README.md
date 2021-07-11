@@ -12,21 +12,15 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-3주차 (2021.6.27 ~ 2021.7.3)
+4주차 (2021.7.11 ~ 2021.7.17)
 
-+ azvfsxcd, kry-p
-
-    + https://www.acmicpc.net/problem/1912
-    + https://www.acmicpc.net/problem/9465
-    + https://www.acmicpc.net/problem/2529
-    + https://www.acmicpc.net/problem/1463
-
-+ jihokt
-
-    + https://www.acmicpc.net/problem/10870
-    + https://www.acmicpc.net/problem/11729
-    + https://www.acmicpc.net/problem/7568
-    + https://www.acmicpc.net/problem/1018
++ https://www.acmicpc.net/problem/13565
++ https://www.acmicpc.net/problem/1926
++ https://www.acmicpc.net/problem/1697
++ https://www.acmicpc.net/problem/12851
++ https://www.acmicpc.net/problem/15649
++ https://www.acmicpc.net/problem/15650
++ https://www.acmicpc.net/problem/15651
 
 ## 디렉터리 구조
 
