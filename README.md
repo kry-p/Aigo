@@ -12,14 +12,14 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-6주차 (2021.7.25 ~ 2021.7.31)
+7주차 (2021.8.1 ~ 2021.8.7)
 
-+ https://www.acmicpc.net/problem/4344
-+ https://www.acmicpc.net/problem/1065
-+ https://www.acmicpc.net/problem/1316
-+ https://www.acmicpc.net/problem/1325
-+ https://www.acmicpc.net/problem/2579
-+ https://www.acmicpc.net/problem/16236
++ https://www.acmicpc.net/problem/2446
++ https://www.acmicpc.net/problem/2231
++ https://www.acmicpc.net/problem/9012
++ https://www.acmicpc.net/problem/1120
++ https://www.acmicpc.net/problem/10819
++ https://www.acmicpc.net/problem/9663
 
 ## 디렉터리 구조
 
