@@ -18,7 +18,7 @@
 + [백준 10211번 - Maximum Subarray (최대 부분 수열)](https://www.acmicpc.net/problem/10211)
 + [백준 13023번 - ABCDE](https://www.acmicpc.net/problem/13023)
 + [백준 16234번 - 인구 이동](https://www.acmicpc.net/problem/16234)
-+ [백준 16928번 - 봄버맨](https://www.acmicpc.net/problem/16918)
++ [백준 16918번 - 봄버맨](https://www.acmicpc.net/problem/16918)
 
 ## 디렉터리 구조
 
