@@ -12,13 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-8주차 (2021.8.8 ~ 2021.8.14)
+9주차 (2021.8.16 ~ 2021.8.22)
 
-+ [정올 1169번 - 주사위 던지기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=449&sca=2080)
-+ [정올 1078번 - 저글링 방사능 오염](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=358&sca=3040)
-+ [백준 11170번 - 0의 개수](https://www.acmicpc.net/problem/11170)
-+ [백준 4963번 - 섬의 개수](https://www.acmicpc.net/problem/4963)
-+ [백준 11051번 - 이항 계수 2](https://www.acmicpc.net/problem/11051)
++ [백준 2503번 - 숫자 야구](https://www.acmicpc.net/problem/2503)
++ [백준 10211번 - Maximum Subarray (최대 부분 수열)](https://www.acmicpc.net/problem/10211)
++ [백준 13023번 - ABCDE](https://www.acmicpc.net/problem/13023)
++ [백준 16234번 - 인구 이동](https://www.acmicpc.net/problem/16234)
++ [백준 16918번 - 봄버맨](https://www.acmicpc.net/problem/16918)
 
 ## 디렉터리 구조
 
