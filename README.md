@@ -12,13 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-9주차 (2021.8.16 ~ 2021.8.22)
+10주차 (2021.8.23 ~ 2021.8.29)
 
-+ [백준 2503번 - 숫자 야구](https://www.acmicpc.net/problem/2503)
-+ [백준 10211번 - Maximum Subarray (최대 부분 수열)](https://www.acmicpc.net/problem/10211)
-+ [백준 13023번 - ABCDE](https://www.acmicpc.net/problem/13023)
-+ [백준 16234번 - 인구 이동](https://www.acmicpc.net/problem/16234)
-+ [백준 16918번 - 봄버맨](https://www.acmicpc.net/problem/16918)
++ [백준 2156번 - 포도주 시식](https://www.acmicpc.net/problem/2156)
++ [백준 2422번 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)
++ [백준 2615번 - 오목](https://www.acmicpc.net/problem/2615)
++ [백준 11057번 - 오르막 수](https://www.acmicpc.net/problem/11057)
++ [백준 18352번 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 
 ## 디렉터리 구조
 

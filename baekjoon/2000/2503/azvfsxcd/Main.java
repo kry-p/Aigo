@@ -1,5 +1,3 @@
-package test08;
-
 import java.util.Scanner;
 
 public class T184_BOJ2503_숫자야구 {
