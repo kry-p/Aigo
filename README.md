@@ -12,13 +12,12 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-10주차 (2021.8.23 ~ 2021.8.29)
+11주차 (2021.8.29 ~ 2021.9.5)
 
-+ [백준 2156번 - 포도주 시식](https://www.acmicpc.net/problem/2156)
-+ [백준 2422번 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)
-+ [백준 2615번 - 오목](https://www.acmicpc.net/problem/2615)
++ [백준 6550번 - 부분 문자열](https://www.acmicpc.net/problem/6550)
++ [백준 9372번 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
 + [백준 11057번 - 오르막 수](https://www.acmicpc.net/problem/11057)
-+ [백준 18352번 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
++ [백준 17070번 - 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
 
 ## 디렉터리 구조
 
