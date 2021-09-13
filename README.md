@@ -12,12 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-11주차 (2021.8.29 ~ 2021.9.5)
+13주차 (2021.9.12 ~ 2021.9.18)
 
-+ [백준 6550번 - 부분 문자열](https://www.acmicpc.net/problem/6550)
-+ [백준 9372번 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
-+ [백준 11057번 - 오르막 수](https://www.acmicpc.net/problem/11057)
-+ [백준 17070번 - 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  
++ [백준 1051번 - 숫자 정사각형](https://www.acmicpc.net/problem/1051)
++ [백준 2668번 - 숫자 고르기](https://www.acmicpc.net/problem/2668)
++ [백준 5585번 - 거스름돈](https://www.acmicpc.net/problem/5585)
++ [백준 18126번 - 너구리 구구](https://www.acmicpc.net/problem/18126)
++ [백준 22935번 - 이진 딸기](https://www.acmicpc.net/problem/22935)  
 
 ## 디렉터리 구조
 
