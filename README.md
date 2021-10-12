@@ -12,13 +12,12 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-15주차 (2021.9.27 ~ 2021.10.3)
+17주차 (2021.10.11 ~ 2021.10.17)
 
-+ [백준 2468번 - 안전 영역](https://www.acmicpc.net/problem/2468)
-+ [백준 10026번 - 적록색약](https://www.acmicpc.net/problem/10026)
-+ [백준 11047번 - 동전 0](https://www.acmicpc.net/problem/11047)
-+ [백준 15903번 - 카드 합체 놀이](https://www.acmicpc.net/problem/15903)
-+ [백준 19539번 - 사과나무](https://www.acmicpc.net/problem/19539)
++ [프로그래머스 코딩테스트 연습 - 해시](https://programmers.co.kr/learn/courses/30/parts/12077)
++ [프로그래머스 코딩테스트 연습 - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081)
++ [프로그래머스 코딩테스트 연습 - 힙](https://programmers.co.kr/learn/courses/30/parts/12117)
++ [프로그래머스 코딩테스트 연습 - 정렬](https://programmers.co.kr/learn/courses/30/parts/12198)
 
 ## 디렉터리 구조
 
