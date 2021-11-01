@@ -14,7 +14,7 @@
 
 19주차 (2021.11.1 ~ 2021.11.7)
 
-+ [프로그래머스 코딩테스트 연습 - 완전탐색](hhttps://programmers.co.kr/learn/courses/30/parts/12230)
++ [프로그래머스 코딩테스트 연습 - 완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230)
 + [프로그래머스 코딩테스트 연습 - 탐욕법](https://programmers.co.kr/learn/courses/30/parts/12244)
 
 ## 디렉터리 구조
