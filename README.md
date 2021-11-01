@@ -12,12 +12,10 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-17주차 (2021.10.11 ~ 2021.10.17)
+19주차 (2021.11.1 ~ 2021.11.7)
 
-+ [프로그래머스 코딩테스트 연습 - 해시](https://programmers.co.kr/learn/courses/30/parts/12077)
-+ [프로그래머스 코딩테스트 연습 - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081)
-+ [프로그래머스 코딩테스트 연습 - 힙](https://programmers.co.kr/learn/courses/30/parts/12117)
-+ [프로그래머스 코딩테스트 연습 - 정렬](https://programmers.co.kr/learn/courses/30/parts/12198)
++ [프로그래머스 코딩테스트 연습 - 완전탐색](hhttps://programmers.co.kr/learn/courses/30/parts/12230)
++ [프로그래머스 코딩테스트 연습 - 탐욕법](https://programmers.co.kr/learn/courses/30/parts/12244)
 
 ## 디렉터리 구조
 
