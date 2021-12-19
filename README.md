@@ -12,9 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-23주차 (2021.11.29 ~ 2021.12.5)
+25주차 (2021.12.20 ~ 2021.12.26)
 
-+ [프로그래머스 코딩테스트 연습 - 다이나믹 프로그래밍](https://programmers.co.kr/learn/courses/30/parts/12263)
+프로그래머스 코딩테스트 연습
++ https://programmers.co.kr/learn/courses/30/lessons/60057
++ https://programmers.co.kr/learn/courses/30/lessons/42888
++ https://programmers.co.kr/learn/courses/30/lessons/1829
++ https://programmers.co.kr/learn/courses/30/lessons/1835
 
 ## 디렉터리 구조
 
