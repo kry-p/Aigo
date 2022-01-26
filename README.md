@@ -12,13 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-25주차 (2021.12.20 ~ 2021.12.26)
+29주차 (2021.12.20 ~ 2021.12.26)
 
-프로그래머스 코딩테스트 연습
-+ https://programmers.co.kr/learn/courses/30/lessons/60057
-+ https://programmers.co.kr/learn/courses/30/lessons/42888
-+ https://programmers.co.kr/learn/courses/30/lessons/1829
-+ https://programmers.co.kr/learn/courses/30/lessons/1835
+백준
++ https://www.acmicpc.net/problem/9655
++ https://www.acmicpc.net/problem/1057
++ https://www.acmicpc.net/problem/1058
+
 
 ## 디렉터리 구조
 
