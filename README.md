@@ -12,12 +12,12 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-31주차 (2022.02.21 ~ 2022.02.27)
+32주차 (2022.02.28 ~ 2022.03.06)
 
 백준
-+ https://www.acmicpc.net/problem/9372
-+ https://www.acmicpc.net/problem/16194
-+ https://www.acmicpc.net/problem/17141
++ https://www.acmicpc.net/problem/14940
++ https://www.acmicpc.net/problem/15645
++ https://www.acmicpc.net/problem/16198
 
 
 ## 디렉터리 구조
