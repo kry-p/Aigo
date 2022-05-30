@@ -12,17 +12,14 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-43주차 (2022.05.16 ~ 2022.05.29)
+44주차 (2022.05.30 ~ 2022.06.05)
 
 백준
-+ https://www.acmicpc.net/problem/1010
-+ https://www.acmicpc.net/problem/1436
-+ https://www.acmicpc.net/problem/15624
-+ https://www.acmicpc.net/problem/21922
 
-번외 문제
-+ https://www.acmicpc.net/problem/1256
-
+- https://www.acmicpc.net/problem/1417
+- https://www.acmicpc.net/problem/1475
+- https://www.acmicpc.net/problem/10815
+- https://www.acmicpc.net/problem/2493
 
 ## 디렉터리 구조
 
@@ -50,8 +47,9 @@
 
 - 문제번호 대역  
   풀이한 문제가 일정 이상이 되어 색인이 곤란한 경우 문제를 대역별로 나누어 저장할 수 있습니다.  
-  현재 규칙은 아래와 같습니다.  
-    + BOJ : 1000 단위 (1000 ~ 1999, 2000 ~ 2999, ...)
+  현재 규칙은 아래와 같습니다.
+
+  - BOJ : 1000 단위 (1000 ~ 1999, 2000 ~ 2999, ...)
 
 - 문제번호 또는 제목  
   문제번호가 존재하는 경우 문제번호, 그렇지 않은 경우 해당 문제를 잘 나타내는 제목을 기록합니다.
