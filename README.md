@@ -12,14 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-48 ~ 49주차 (연장) (2022.06.27 ~ 2022.07.17)
+50주차 (2022.07.18 ~ 2022.07.24)
 
 백준
 
-- https://www.acmicpc.net/problem/15486
-- https://www.acmicpc.net/problem/17615
-- https://www.acmicpc.net/problem/1038
-- https://www.acmicpc.net/problem/18405
+- https://www.acmicpc.net/problem/14496
+- https://www.acmicpc.net/problem/2110
+- https://www.acmicpc.net/problem/16931
 - https://www.acmicpc.net/problem/17836
 
 ## 디렉터리 구조
