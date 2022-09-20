@@ -12,13 +12,13 @@
 
 ## ⭐️ 금주의 문제 ⭐️
 
-54주차 (2022.08.29 ~ 2022.09.04)
+55주차 (2022.09.19 ~ 2022.09.25)
 
 백준
 
-- https://www.acmicpc.net/problem/1931
-- https://www.acmicpc.net/problem/2533
-- https://www.acmicpc.net/problem/2933
+- https://www.acmicpc.net/problem/1967
+- https://www.acmicpc.net/problem/6588
+- https://www.acmicpc.net/problem/2458
 
 ## 디렉터리 구조
 
